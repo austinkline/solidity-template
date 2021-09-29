@@ -1,0 +1,1 @@
+{{cookiecutter.contract_contents}}
